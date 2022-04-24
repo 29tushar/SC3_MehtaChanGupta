@@ -41,7 +41,8 @@ Classifying if a chest xray is normal or depicts that the person has pneumonia
 7. How to zoom, shift the images to make the model more robust
 
 ## References
-
-
+1. Kermany D, Goldbaum M, Cai W et al. Identifying Medical Diagnoses and Treatable Diseases by Image-Based Deep Learning. Cell. 2018; 172(5):1122-1131. doi:10.1016/j.cell.2018.02.010.
+2. https://www.youtube.com/watch?v=0HDy6n3UD5M
+3. https://github.com/Pitsillides91/Pyth... 
 
 
