@@ -17,6 +17,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 3. @CHAN0991@e.ntu.edu.sg       - Classifying using Decision Trees
 
 ## Problem Definition
+Classifying if a chest xray is normal or depicts that the person has pneumonia
 
 
 
