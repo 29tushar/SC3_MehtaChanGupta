@@ -46,5 +46,7 @@ Classifying if a chest xray is normal or depicts that the person has pneumonia
 3. https://www.youtube.com/watch?v=0HDy6n3UD5M
 4. https://github.com/Pitsillides91/Pyth... 
 5. https://www.researchgate.net/figure/Calculation-of-Precision-Recall-and-Accuracy-in-the-confusion-matrix_fig3_336402347
+6. https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53
+7. https://math.dartmouth.edu/~m70s20/ImageAnalysis.pdf
 
 
