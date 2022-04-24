@@ -26,6 +26,11 @@ Classifying if a chest xray is normal or depicts that the person has pneumonia
 2. Logistic Regression
 3. Neural Networks
 
+## Conclusion
+1.  Convolution Neural Network worked best for us.
+2.  The True Negative Rate or the Accuracy is low throughout the models which is occuring because of imbalance class data.
+3.  Note that Pneumonia has 2x more data than normal. Therefore one of the solutions is to reduce the Pneumonia to be same size of Normal, but it has a drawback that       we then will lose a lot of data. Also, we need to modify the Loss function during training such that the penalty for misclassifying "normal" is more.  
+
 ## What did we learn from this project?
 1. How to translate images to numbers, filtering images through convolutional matrices 
 2. Selecting depth of Classification Tree by running cross validation
@@ -34,4 +39,7 @@ Classifying if a chest xray is normal or depicts that the person has pneumonia
 5. Collaborating using GitHub
 6. Concepts about Transfer Learning through Resent
 7. How to zoom, shift the images to make the model more robust
+
+## References
+
 
