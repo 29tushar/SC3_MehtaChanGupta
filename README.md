@@ -39,7 +39,7 @@ Classifying if a chest xray is normal or depicts that the person has pneumonia
 3. Logistic Regression from sklearn
 4. Convolutional Neural Networks
 5. Collaborating using GitHub
-6. Concepts about Transfer Learning through Resent
+6. Concepts about Transfer Learning through Resnet
 7. How to zoom, shift the images to make the model more robust
 
 ## References
