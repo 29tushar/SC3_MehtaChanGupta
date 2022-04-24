@@ -12,6 +12,6 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 8. Improvements to our method
 
 ## Contributors
-1. @MEHT0007@e.ntu.edu.sg    - Data Collection, Preparation, and Exploratory, Deep Dearning 
+1. @MEHT0007@e.ntu.edu.sg         - Data Collection, Preparation, and Exploratory, Deep Dearning 
 2. @TUSHARSA001@e.ntu.edu.sg - Logistic Regression
-3. @CHAN0991@e.ntu.edu.sg    - Classifying using Decision Trees
+3. @CHAN0991@e.ntu.edu.sg       - Classifying using Decision Trees
