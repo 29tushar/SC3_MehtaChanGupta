@@ -11,7 +11,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 7. Comparing and Evaluating Models
 8. Improvements to our method
 
-Contributors
+## Contributors
 @MEHT0007@e.ntu.edu.sg    - Data Collection, Preparation, and Exploratory, Deep Dearning
 @TUSHARSA001@e.ntu.edu.sg - Logistic Regression
 @CHAN0991@e.ntu.edu.sg - Classifying using Decision Trees
