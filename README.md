@@ -42,7 +42,8 @@ Classifying if a chest xray is normal or depicts that the person has pneumonia
 
 ## References
 1. Kermany D, Goldbaum M, Cai W et al. Identifying Medical Diagnoses and Treatable Diseases by Image-Based Deep Learning. Cell. 2018; 172(5):1122-1131. doi:10.1016/j.cell.2018.02.010.
-2. https://www.youtube.com/watch?v=0HDy6n3UD5M
-3. https://github.com/Pitsillides91/Pyth... 
+2. https://towardsdatascience.com/how-to-find-decision-tree-depth-via-cross-validation-2bf143f0f3d6
+3. https://www.youtube.com/watch?v=0HDy6n3UD5M
+4. https://github.com/Pitsillides91/Pyth... 
 
 
