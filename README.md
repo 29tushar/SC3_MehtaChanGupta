@@ -25,3 +25,13 @@ Classifying if a chest xray is normal or depicts that the person has pneumonia
 1. Decision Trees
 2. Logistic Regression
 3. Neural Networks
+
+## What did we learn from this project?
+1. How to translate images to numbers, filtering images through convolutional matrices 
+2. Selecting depth of Classification Tree by running cross validation
+3. Logistic Regression from sklearn
+4. Convolutional Neural Networks
+5. Collaborating using GitHub
+6. Concepts about Transfer Learning through Resent
+7. How to zoom, shift the images to make the model more robust
+
